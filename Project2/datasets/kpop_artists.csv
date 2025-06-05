@@ -1,0 +1,198 @@
+Stage.Name,Group,ig_name,Followers,Gender.x,Full.Name,Korean.Name,K.Stage.Name,Date.of.Birth,Debut,Company,Country,Second.Country,Height,Weight,Birthplace,Other.Group,Former.Group,Gender.y,age,year.career
+Taehyung,BTS,thv,58541265,Boy,Kim Taehyung,김태형,뷔,1995-12-30,2013-06-13,Big Hit,South Korea,,179.0,62.0,Daegu,,,M,27,10
+Jimin,BTS,j.m,49385614,Boy,Park Jimin,박지민,지민,1995-10-13,2013-06-13,Big Hit,South Korea,,175.0,61.0,Busan,,,M,27,10
+J-Hope,BTS,uarmyhope,45880758,Boy,Jung Hoseok,정호석,제이홉,1994-02-18,2013-06-13,Big Hit,South Korea,,177.0,65.0,Gwangju,,,M,29,10
+Jin,BTS,jin,45165530,Boy,Kim Seokjin,김석진,진,1992-12-04,2013-06-13,Big Hit,South Korea,,179.0,63.0,Gwacheon,,,M,30,10
+Namjoom,BTS,rkive,43681931,Boy,Kim Namjoon,김남준,알엠,1994-09-12,2013-06-13,Big Hit,South Korea,,181.0,67.0,Ilsan,,,M,28,10
+Eunwoo,ASTRO,eunwo.o_c,36175751,Boy,Cha Eunwoo,차은우,은우,1997-03-30,2016-02-23,Fantagio,South Korea,,,,Gunpo,,,M,26,7
+Jackson,GOT7,jacksonwang852g7,32016901,Boy,Jackson Wang,잭슨 왕,잭슨,1994-03-28,2014-01-16,JYP,Hong Kong,,174.0,63.0,Hong Kong,,,M,29,9
+Chanyeol,EXO,real__pcy,24056706,Boy,Park Chanyeol,박찬열,찬열,1992-11-27,2012-04-08,SM,South Korea,,185.0,70.0,Seoul,,,M,30,11
+Sehun,EXO,oohsehun,23425827,Boy,Oh Sehun,오세훈,세훈,1994-04-12,2012-04-08,SM,South Korea,,181.0,63.0,Seoul,,,M,29,11
+Baekhyun,EXO,baekhyunee_exo,21803656,Boy,Byun Baekhyun,변백현,백현,1992-05-06,2012-04-08,SM,South Korea,,174.0,58.0,Wonmi,EXO-CBX| SuperM,,M,31,11
+BamBam,GOT7,bambam1a,17525604,Boy,Kunpimook Bhuwakul,꾼삐묵 부와꾼,뱀뱀,1997-05-02,2014-01-16,JYP,Thailand,,170.0,52.0,Bangkok,,,M,26,9
+Kai,EXO,zkdlin,14619606,Boy,Kim Jongin,김종인,카이,1994-01-14,2012-04-08,SM,South Korea,,182.0,65.0,Suncheon,SuperM,,M,29,11
+Jaehyun,NCT,_jeongjaehyun,14585953,Boy,Jung Yoonoh,정윤오,재현,1997-02-14,2016-04-09,SM,South Korea,,,,Seoul,NCT U| NCT 127,,M,26,7
+Lay,EXO,layzhang,14251685,Boy,Zhang Yixing,장이씽,레이,1991-10-07,2012-04-08,SM,China,,177.0,60.0,Changsa,,,M,31,11
+Yeonjun,TXT,yawnzzn,14028074,Boy,Choi Yeonjun,최연준,연준,1999-09-13,2019-03-04,Big Hit,South Korea,,183.0,63.0,,,,M,23,4
+Mark,GOT7,mark_tuan,13765664,Boy,Mark Yien Tuan,마크 이엔 투안,마크,1993-09-04,2014-01-16,JYP,USA,Taiwan,175.0,59.0,Los Angeles,,,M,29,9
+Jaemin,NCT,na.jaemin0813,12480330,Boy,Na Jaemin,나재민,재민,2000-08-13,2016-04-09,SM,South Korea,,,,,NCT Dream,,M,22,7
+Yugyeom,GOT7,yu_gyeom,12132886,Boy,Kim Yugyeom,김유겸,유겸,1997-11-17,2014-01-16,JYP,South Korea,,180.0,64.0,Namyangju,,,M,25,9
+Doyoung,NCT,do0_nct,11679382,Boy,Kim Dongyoung,김동영,도영,1996-02-01,2016-04-09,SM,South Korea,,,,Guri,NCT U| NCT 127,,M,27,7
+Mark,NCT,onyourm__ark,11345668,Boy,Mark Lee,마크 리,마크,1999-08-02,2016-04-09,SM,Canada,,,,Vancouver,NCT U| NCT 127| NCT Dream| SuperM,,M,23,7
+Suho,EXO,kimjuncotton,10703170,Boy,Kim Junmyeon,김준면,수호,1991-05-22,2012-04-08,SM,South Korea,,173.0,65.0,Seoul,,,M,32,11
+Taeyong,NCT,taeoxo_nct,10567442,Boy,Lee Taeyong,이태용,태용,1995-07-01,2016-04-09,SM,South Korea,,,,,NCT U| NCT 127|SuperM,,M,28,7
+Jinyoung,GOT7,jinyoung_0922jy,9876211,Boy,Park Jinyoung,박진영,진영,1994-09-22,2014-01-16,JYP,South Korea,,178.0,63.0,Changwon,,,M,28,9
+Key,SHINEE,bumkeyk,9641860,Boy,Kim Kibum,김기범,키,1991-09-23,2008-05-25,SM,South Korea,,179.0,59.0,Daegu,Toheart,,M,31,15
+Johnny,NCT,johnnyjsuh,9561190,Boy,John Seo,존 서,쟈니,1995-02-09,2016-04-09,SM,USA,,,,Chicago,NCT 127,,M,28,7
+Mingyu,SEVENTEEN,min9yu_k,9406795,Boy,Kim Mingyu,김민규,민규,1997-04-06,2015-05-26,Pledis,South Korea,,185.0,65.0,Anyang,,,M,26,8
+Yuta,NCT,yuu_taa_1026,9329651,Boy,Nakamoto Yuta,나카모토 유타,유타,1995-10-26,2016-04-09,SM,Japan,,,,Osaka,NCT 127,,M,27,7
+Siwon,SUPER JUNIOR,siwonchoi,8968317,Boy,Choi Siwon,최시원,시원,1986-04-07,2005-11-06,SM,South Korea,,185.0,65.0,Seoul,Super Junior-M,,M,37,17
+Xiumin,EXO,e_xiu_o,8402552,Boy,Kim Minseok,김민석,시우민,1990-03-26,2012-04-08,SM,South Korea,,173.0,65.0,Guri,EXO-CBX,,M,33,11
+Winwin,NCT,wwiinn_7,8165210,Boy,Dong Sicheng,뚱쓰청,윈윈,1997-10-28,2016-04-09,SM,China,,,,Zhejiang,NCT 127,,M,25,7
+Renjun,NCT,yellow_3to3,7842916,Boy,Hwang Renjun,황런쥔,런쥔,2000-03-23,2016-04-09,SM,China,,,,Jilin,NCT Dream,,M,23,7
+Donghae,SUPER JUNIOR,leedonghae,7138398,Boy,Lee Donghae,이동해,동해,1986-10-15,2005-11-06,SM,South Korea,,176.0,60.0,Mokpo,Super Junior-M,,M,36,17
+Haechan,NCT,haechanahceah,6987487,Boy,Lee Donghyuk,이동혁,해찬,2000-06-06,2016-04-09,SM,South Korea,,,,,NCT 127| NCT Dream,,M,23,7
+JB,GOT7,jaybnow.hr,6875584,Boy,Im Jaebum,임재범,제이비,1994-01-06,2014-01-16,JYP,South Korea,,179.0,63.0,Goyang,,,M,29,9
+The8,SEVENTEEN,xuminghao_o,6705619,Boy,Xu Minghao,쉬밍하오,디에잇,1997-11-07,2015-05-26,Pledis,China,,175.0,53.0,Anshan,,,M,25,8
+Youngjae,GOT7,333cyj333,6692941,Boy,Choi Youngjae,최영재,영재,1996-09-17,2014-01-16,JYP,South Korea,,175.0,59.0,Mokpo,,,M,26,9
+Yesung,SUPER JUNIOR,yesung1106,6506604,Boy,Kim Jongwoon,김종운,예성,1984-08-24,2005-11-06,SM,South Korea,,178.0,64.0,Seoul,,,M,38,17
+Joshua,SEVENTEEN,joshuahong951230,6463871,Boy,Hong Jisoo,홍지수,조슈아,1995-12-30,2015-05-26,Pledis,USA,South Korea,176.0,63.0,Los Angeles,,,M,27,8
+Mino,WINNER,realllllmino,6264461,Boy,Song Minho,송민호,민호,1993-03-30,2014-08-12,YG,South Korea,,,,Yongin,,,M,30,8
+Shotaro,NCT,_shotaroo_,6215399,Boy,Osaki Shotaro,오사키 쇼타로,쇼타로,2000-11-25,2016-04-09,SM,Japan,,,,,NCT U,,M,22,7
+Taeil,NCT,mo.on_air,5906526,Boy,Moon Taeil,문태일,태일,1994-06-14,2016-04-09,SM,South Korea,,171.0,60.0,Seoul,NCT U| NCT 127,,M,29,7
+Seungkwan,SEVENTEEN,pledis_boos,5894890,Boy,Boo Seungkwan,부승관,승관,1998-01-16,2015-05-26,Pledis,South Korea,,172.0,58.0,Jeju,,,M,25,8
+Vernon,SEVENTEEN,chwenotchew,5894298,Boy,Choi Hansol,최한솔,버논,1998-02-18,2015-05-26,Pledis,USA,South Korea,176.0,56.0,New York,,,M,25,8
+S.Coups,SEVENTEEN,sound_of_coups,5819916,Boy,Choi Seungcheol,최승철,에스.쿱스,1995-08-08,2015-05-26,Pledis,South Korea,,177.0,63.0,Daegu,,,M,27,8
+Minhyun,NU'EST,optimushwang,5726329,Boy,Hwang Minhyun,황민현,민현,1995-08-09,2012-03-15,Pledis,South Korea,,,,Busan,NU'EST,Wanna One,M,27,11
+Heechul,SUPER JUNIOR,kimheenim,5595526,Boy,Kim Heechul,김희철,희철,1983-07-10,2005-11-06,SM,South Korea,,179.0,60.0,Hoengseong,,,M,40,17
+Hoshi,SEVENTEEN,ho5hi_kwon,5471781,Boy,Kwon Soonyoung,권순영,호시,1996-06-15,2015-05-26,Pledis,South Korea,,178.0,63.0,Namyangju,,,M,27,8
+Taemin,SHINEE,lm_____ltm,5417723,Boy,Lee Taemin,이태민,태민,1993-07-18,2008-05-25,SM,South Korea,,177.0,53.0,Seoul,SuperM,,M,30,15
+Rowoon,SF9,krwo_on,5274298,Boy,Kim Seokwoo,김석우,로운,1996-08-07,2016-10-05,FNC,South Korea,,,,,,,M,26,6
+Leeteuk,SUPER JUNIOR,xxteukxx,5251060,Boy,Park Jeongsu,박정수,이특,1983-07-01,2005-11-06,SM,South Korea,,179.0,59.0,Seoul,,,M,40,17
+Jeonghan,SEVENTEEN,jeonghaniyoo_n,5119723,Boy,Yoon Jeonghan,윤정한,정한,1995-10-04,2015-05-26,Pledis,South Korea,,175.0,54.0,Seoul,,,M,27,8
+Wonwoo,SEVENTEEN,everyone_woo,5104706,Boy,Jeon Wonwoo,전원우,원우,1996-07-17,2015-05-26,Pledis,South Korea,,180.0,57.0,Changwon,,,M,27,8
+Woozi,SEVENTEEN,woozi_universefactory,5022474,Boy,Lee Jihoon,이지훈,우지,1996-11-22,2015-05-26,Pledis,South Korea,,165.0,54.0,Busan,,,M,26,8
+DK,SEVENTEEN,dk_is_dokyeom,4883637,Boy,Lee Seongmin,이석민,도겸,1997-02-18,2015-05-26,Pledis,South Korea,,178.0,68.0,Yongin,,,M,26,8
+Zico,BLOCK B,woozico0914,4814973,Boy,Woo Jiho,우지호,지코,1992-09-14,2011-04-15,KQ,South Korea,,182.0,65.0,Seoul,,,M,30,12
+Jun,SEVENTEEN,junhui_moon,4177907,Boy,Weng Junhui,원쥔훼이,준,1996-06-10,2015-05-26,Pledis,China,,180.0,63.0,Shenzen,,,M,27,8
+Sungjae,BTOB,yook_can_do_it,3784943,Boy,Yook Sungjae,육성재,성재,1995-05-02,2012-03-21,Cube,South Korea,,180.0,68.0,Yongin,Big Byung,,M,28,11
+Sanha,ASTRO,ddana_yoon,3719191,Boy,Yoon Sanha,윤산하,산하,2000-03-21,2016-02-23,Fantagio,South Korea,,,,Seoul,,,M,23,7
+Dino,SEVENTEEN,feat.dino,3642833,Boy,Lee Chan,이찬,디노,1999-02-11,2015-05-26,Pledis,South Korea,,167.0,54.0,Iksan,,,M,24,8
+Taecyeon,2PM,taecyeonokay,3389254,Boy,Ok Taecyeon,옥택연,택연,1988-12-27,2008-07-04,JYP,South Korea,,185.0,76.0,Busan,,,M,34,15
+L,INFINITE,kim_msl,3327774,Boy,Kim Myungsoo,김명수,엘,1992-03-13,2010-06-09,Woollim,South Korea,,180.0,60.0,Seoul,Infinite F,,M,31,13
+Minho,SHINEE,choiminho_1209,3303247,Boy,Choi Minho,최민호,민호,1991-12-09,2008-05-25,SM,South Korea,,181.0,60.0,Incheon,,,M,31,15
+Bobby,IKON,bobbyindaeyo,3207006,Boy,Kim Jiwon,김지원,바비,1995-12-21,2015-09-15,YG,South Korea,USA,,,Seoul,,,M,27,7
+Rocky,ASTRO,minhyuk202523,3126042,Boy,Park Minhyuk,박민혁,라키,1999-02-25,2016-02-23,Fantagio,South Korea,,,,Jinju,,,M,24,7
+MJ,ASTRO,mj_7.7.7,3068910,Boy,Kim Myungjun,김명준,엠제이,1994-03-05,2016-02-23,Fantagio,South Korea,,,,Nowon,,,M,29,7
+Ju-ne,IKON,juneeeeeeya,2893796,Boy,Koo Junhoe,구준회,준회,1997-03-31,2015-09-15,YG,South Korea,,,,Seoul,,,M,26,7
+Onew,SHINEE,dlstmxkakwldrl,2854748,Boy,Lee Jinki,이진기,온유,1989-12-14,2008-05-25,SM,South Korea,,177.0,61.0,Gwangmyeong,,,M,33,15
+Junho,2PM,le2jh,2803634,Boy,Lee Junho,이준호,준호,1990-01-25,2008-07-04,JYP,South Korea,,178.0,67.0,Ilsan,,,M,33,15
+Shindong,SUPER JUNIOR,earlyboysd,2778683,Boy,Shin Donghee,신동희,신동,1985-09-28,2005-11-06,SM,South Korea,,178.0,90.0,Mungyeong,,,M,37,17
+BM,KARD,bigmatthewww,2703891,Boy,Matthew Kim,매튜김,비엠,1992-10-20,2007-03-29,DSP,South Korea,,,,,,,M,30,16
+Junhyung,HIGHLIGHT,bigbadboii,2585421,Boy,Yong Junyung,용준형,준형,1989-12-19,2009-10-14,Around Us,South Korea,,178.0,64.0,Seoul,,Beast,M,33,13
+Kyuhyun,SUPER JUNIOR,gyuram88,2048308,Boy,Cho Kyuhyun,조규현,규현,1988-02-03,2005-11-06,SM,South Korea,,180.0,68.0,Seoul,Super Junior-M,,M,35,17
+Byungchan,VICTON,_c.b.c_1112,2016565,Boy,Choi Byungchan,최병찬,병찬,1997-11-12,2016-11-09,Plan A,South Korea,,,,,,,M,25,6
+Minhyuk,BTOB,hutazone,1998207,Boy,Lee Minhyuk,이민혁,민혁,1990-11-29,2012-03-21,Cube,South Korea,,173.0,61.0,Seoul,,,M,32,11
+Jaejoong,JYJ,jj_1986_jj,1934817,Boy,Kim Jaejoong,김재중,재중,1986-01-26,2010-09-08,C-JeS,South Korea,,,,Gongju,,TVXQ,M,37,12
+Hyungwon,MONSTA X,coenffl,1845947,Boy,Chae Hyungwon,채형원,형원,1994-01-15,2014-05-14,Starship,South Korea,,,,Gwangju,,,M,29,9
+Kihyun,MONSTA X,yookihhh,1688597,Boy,Yoo Kihyun,유기현,기현,1993-11-22,2014-05-14,Starship,South Korea,,,,Goyang,,,M,29,9
+Ravi,VIXX,ravithecrackkidz,1657143,Boy,Kim Wonsik,김원식,라비,1993-02-15,2012-05-24,Jellyfish,South Korea,,183.0,65.0,Seoul,VIXX LR,,M,30,11
+J.seph,KARD,j.seph_,1653959,Boy,Kim Taehyung,김태형,제이셉,1992-06-21,2007-03-29,DSP,South Korea,USA,,,,,,M,31,16
+Doojoon,-HIGHLIGHT-,beeeestdjdjdj,1617496,Boy,Yoon Doojoon,윤두준,두준,1989-07-04,2009-10-14,Around Us,South Korea,,177.0,66.0,Goyang,,Beast,M,34,13
+Jae,DAY6,eajpark,1441270,Boy,Park Jaehyung,박제형,제이,1992-09-15,2015-09-07,JYP,South Korea,Argentina|USA,,,Buenos Aires,,,M,30,7
+Nichkhun,2PM,khunsta0624,1423661,Boy,Nichkhun Horvejkul,닛차쿤 허라웻차꾼,닉쿤,1988-06-24,2008-07-04,JYP,Thailand,USA,180.0,64.0,California,,,M,35,15
+Woohyun,INFINITE,nwh91,1404946,Boy,Nam Woohyun,남우현,우현,1991-02-08,2010-06-09,Woollim,South Korea,,176.0,52.0,Seoul,Toheart,,M,32,13
+Minhyuk,MONSTA X,go5rae,1399377,Boy,Lee Minhyuk,이민혁,민혁,1993-11-03,2014-05-14,Starship,South Korea,,,,,,,M,29,9
+Seungwoo,VICTON,w_o_o_y_a,1313766,Boy,Han Seungwoo,한승우,승우,1994-12-24,2016-11-09,Plan A,South Korea,,,,,,X1,M,28,6
+Wonpil,DAY6,kimwon.pil,1310038,Boy,Kim Wonpil,김원필,원필,1994-04-28,2015-09-07,JYP,South Korea,,,,,,,M,29,7
+Ren,NU'EST,glorypath,1250189,Boy,Choi Minki,최민기,렌,1995-11-03,2012-03-15,Pledis,South Korea,,,,Busan,NU'EST W,,M,27,11
+P.O,BLOCK B,pyojihoon_official,1232537,Boy,Pyo Jihoon,표지훈,피오,1993-02-02,2011-04-15,KQ,South Korea,,181.0,64.0,Seoul,Bastarz,,M,30,12
+Young K,DAY6,from_youngk,1232061,Boy,Kang Young-hyun,강영현,영케이,1993-12-19,2015-09-07,JYP,South Korea,Canada,,,,,,M,29,7
+Yoseob,HIGHLIGHT,yysbeast,1226311,Boy,Yang Yoseob,양요섭,요섭,1990-01-05,2009-10-14,Around Us,South Korea,,171.0,56.0,Seoul,,Beast,M,33,13
+Gikwang,HIGHLIGHT,gttk0000,1183102,Boy,Lee Gikwang,이기광,기광,1990-03-30,2009-10-14,Around Us,South Korea,,171.0,58.0,Gwangju,,Beast,M,33,13
+Leo,VIXX,leo_jungtw,1146669,Boy,Jung Taekwon,정택운,레오,1990-11-10,2012-05-24,Jellyfish,South Korea,,183.0,63.0,Seoul,VIXX LR,,M,32,11
+Peniel,BTOB,btobpeniel,1138977,Boy,Shin Donggeun,신동근,프니엘,1993-03-10,2012-03-21,Cube,South Korea,USA,175.0,63.0,Chicago,,,M,30,11
+Dowoon,DAY6,d.ddablue,1135625,Boy,Yoon Dowoon,윤도운,도운,1995-08-25,2015-09-07,JYP,South Korea,,,,,,,M,27,7
+Eunkwang,BTOB,btob_silver_light,1053513,Boy,Seo Eunkwang,서은광,은광,1990-11-22,2012-03-21,Cube,South Korea,,173.0,62.0,Yongin,,,M,32,11
+Hyunsik,BTOB,imhyunsik,926185,Boy,Lim Hyunsik,임현식,현식,1992-03-07,2012-03-21,Cube,South Korea,,177.0,66.0,Ilsan,,,M,31,11
+Ken,VIXX,keken_0406,911079,Boy,Lee Jaehwan,이재환,켄,1992-04-06,2012-05-24,Jellyfish,South Korea,,180.0,65.0,Seoul,,,M,31,11
+Ilhoon,BTOB,ilhoonmj,839468,Boy,Jung Ilhoon,정일훈,일훈,1994-10-04,2012-03-21,Cube,South Korea,,176.0,64.0,Seoul,,,M,28,11
+Lisa,BLACKPINK,lalalalisa_m,93337766,Girl,Pranpriya Manoban,쁘란쁘리야 마노반,리사,1997-03-27,2016-08-08,YG,Thailand,,170.0,46.0,Bangkok,,,F,26,6
+Jennie,BLACKPINK,jennierubyjane,78527157,Girl,Kim Jennie,김제니,제니,1996-01-16,2016-08-08,YG,South Korea,,163.0,50.0,Anyang,,,F,27,6
+Jisoo,BLACKPINK,sooyaaa__,72397050,Girl,Kim Jisoo,김지수,지수,1995-01-03,2016-08-08,YG,South Korea,,162.0,45.0,Seoul,,,F,28,6
+Joy,RED VELVET,_imyour_joy,14543633,Girl,Park Sooyoung,박수영,조이,1996-09-03,2014-08-01,SM,South Korea,,163.0,,Jeju,,,F,26,8
+Seulgi,RED VELVET,hi_sseulgi,12893342,Girl,Kang Seulgi,강슬기,슬기,1994-02-10,2014-08-01,SM,South Korea,,162.0,,Seoul,Red Velvet - IRENE SEULGI,,F,29,8
+Momo,TWICE,momo,11504255,Girl,Hirai Momo,히라이 모모,모모,1996-11-09,2015-10-20,JYP,Japan,,167.0,,Kyoto,MISAMO,,F,26,7
+Irene,RED VELVET,renebaebae,11113475,Girl,Bae Juhyun,배주현,아이린,1991-03-29,2014-08-01,SM,South Korea,,161.0,,Daegu,Red Velvet - IRENE SEULGI,,F,32,8
+Tzuyu,TWICE,thinkaboutzu,11024366,Girl,Chou Tzuyu,저우쯔위,쯔위,1999-06-14,2015-10-20,JYP,Taiwan,,169.0,,Tainan,,,F,24,7
+Nayeon,TWICE,nayeonyny,10757436,Girl,Im Nayeon,임나연,나연,1995-09-22,2015-10-20,JYP,South Korea,,163.0,,Seoul,,,F,27,7
+Yeri,RED VELVET,yerimiese,10757106,Girl,Kim Yerim,김예림,예리,1999-03-05,2014-08-01,SM,South Korea,,158.0,,Seoul,,,F,24,8
+Krystal,F(X),vousmevoyez,10563163,Girl,Krystal Jung,크리스탈 정,크리스탈,1994-10-24,2009-09-05,SM,South Korea,,165.0,,San Francisco,,,F,28,13
+Sejeong,GUGUDAN,clean_0828,9965492,Girl,Kim Sejeong,김세정,세정,1996-08-28,2016-06-28,Jellyfish,South Korea,,164.0,48.0,,,I.O.I,F,26,7
+Sana,TWICE,m.by__sana,9887725,Girl,Minatozaki Sana,미나토자키 사나,사나,1996-12-29,2015-10-20,JYP,Japan,,168.0,,Osaka,MISAMO,,F,26,7
+Chaeyoung,TWICE,chaeyo.0,8858825,Girl,Son Chaeyoung,손채영,채영,1999-04-23,2015-10-20,JYP,South Korea,,159.0,,Seoul,,,F,24,7
+Hwasa,MAMAMOO,_mariahwasa,8829733,Girl,Ahn Hyejin,안혜진,화사,1995-07-23,2014-06-18,RBW,South Korea,,162.0,44.0,Jeonju,,,F,28,9
+Jihyo,TWICE,_zyozyo,8786200,Girl,Park Jisoo,박지수,지효,1997-02-01,2015-10-20,JYP,South Korea,,162.0,,Guri,,,F,26,7
+Mina,TWICE,mina_sr_my,8317566,Girl,Myoui Mina,묘이 미나,미나,1997-03-24,2015-10-20,JYP,Japan,,163.0,,San Antonio,MISAMO,,F,26,7
+Dahyun,TWICE,dahhyunnee,8081245,Girl,Kim Dahyun,김다현,다현,1998-05-28,2015-10-20,JYP,South Korea,,165.0,,Seongnam,,,F,25,7
+Wonyoung,IVE,for_everyoung10,7948915,Girl,Jang Wonyoung,장원영,원영,2004-08-31,2021-12-01,Starship,South Korea,,,,Seoul,,IZ*ONE,F,18,1
+Hyeri,GIRL'S DAY,hyeri_0609,7811045,Girl,Lee Hyeri,이혜리,혜리,1994-06-09,2010-07-09,DreamT,South Korea,,167.0,46.0,Gwangju,,,F,29,13
+Wendy,RED VELVET,todayis_wendy,7690631,Girl,Son Seunghwan,손승완,웬디,1994-02-21,2014-08-01,SM,South Korea,,160.0,,Seoul,,,F,29,8
+Sakura,LE SSERAFIM,39saku_chan,7661574,Girl,Miyawaki Sakura,미야와키 사쿠라,사쿠라,1998-03-19,2022-05-02,Source,Japan,,,,Kagoshima,,IZ*ONE,F,25,1
+Jeongyeon,TWICE,jy_piece,7215888,Girl,Yoo Jeongyeon,유정연,정연,1996-11-01,2015-10-20,JYP,South Korea,,168.0,,Suwon,,,F,26,7
+Chaewon,LE SSERAFIM,_chaechae_1,6162880,Girl,Kim Chaewon,김채원,채원,2000-08-01,2022-05-02,Source,South Korea,,,,Seoul,,IZ*ONE,F,22,1
+Yuqi,(G)I-DLE,yuqisong.923,5838243,Girl,Song Yuqi,송우기,우기,1999-09-23,2018-05-02,Cube,China,,162.0,48.0,Beijing,,,F,23,5
+Minnie,(G)I-DLE,min.nicha,5615380,Girl,Nicha Yontararak,니차 욘타라락,민니,1997-10-23,2018-05-02,Cube,Thailand,,,,,,,F,25,5
+Amber,F(X),ajol_llama,5519743,Girl,Amber Josephine Liu,엠버 조세핀 리우,엠버,1992-09-18,2009-09-05,SM,USA,Taiwan,167.0,,Los Angeles,,,F,30,13
+Yunjin,LE SSERAFIM,jenaissante,5427193,Girl,Huh Yunjin,허윤진,윤진,2001-10-08,2022-05-02,Source,South Korea,,171.0,53.0,,,,F,21,1
+Moonbyul,MAMAMOO,mo_onbyul,5093547,Girl,Moon Byulyi,문별이,문별,1992-12-22,2014-06-18,RBW,South Korea,,165.0,45.0,Bucheon,,,F,30,9
+Jiyeon,T-ARA,jiyeon2__,5018813,Girl,Park Jiyeon,박지연,지연,1993-06-07,2009-07-29,MBK,South Korea,,167.0,45.0,Seoul,,,F,30,13
+Yujin,IVE,_yujin_an,4836626,Girl,Ahn Yujin,안유진,유진,2003-09-01,2021-12-01,Starship,South Korea,,,,Cheongju,,IZ*ONE,F,19,1
+Kazuha,LE SSERAFIM,k_a_z_u_h_a__,4765820,Girl,Nakamura Kazuha,나카무라 카즈하,카즈하,2003-08-09,2022-05-02,Source,Japan,,174.0,,Osaka,,,F,19,1
+Hani,EXID,ahnhani_92,4632988,Girl,Ahn Hee-yeon,안희연,하니,1992-05-01,2012-02-16,Yedang,South Korea,,168.0,,Seoul,,,F,31,11
+Nana,AFTER SCHOOL,jin_a_nana,3933462,Girl,Im Jinah,임진아,나나,1991-09-14,2009-01-15,Pledis,South Korea,,,,Cheongju,Orange Caramel,,F,31,14
+Soyeon,(G)I-DLE,tiny.pretty.j,3826310,Girl,Jeon Soyeon,전소연,소연,1998-08-26,2018-05-02,Cube,South Korea,,157.0,42.0,,,,F,24,5
+Seolhyun,AOA,sh_9513,3777078,Girl,Kim Seolhyun,김설현,설현,1995-01-03,2012-07-30,FNC,South Korea,,167.0,47.0,Bucheon,,,F,28,10
+Shuhua,(G)I-DLE,yeh.shaa_,3633778,Girl,Yeh Shuhua,예슈화,슈화,2000-01-06,2018-05-02,Cube,Taiwan,,161.0,45.0,,,,F,23,5
+Hyomin,T-ARA,hyominnn,3600844,Girl,Park Sunyoung,박선영,효민,1989-05-30,2009-07-29,MBK,South Korea,,167.0,43.0,Busan,,,F,34,13
+Miyeon,(G)I-DLE,noodle.zip,3582981,Girl,Jo Miyeon,조미연,미연,1997-01-31,2018-05-02,Cube,South Korea,,,,,,,F,26,5
+Eunchae,LE SSERAFIM,hhh.e_c.v,3495608,Girl,Hong Eunchae,홍은채,은채,2006-11-10,2022-05-02,Source,South Korea,,172.0,,,,,F,16,1
+Nancy,MOMOLAND,nancyjewel_mcdonie_,3427748,Girl,Nancy Mcdonie,낸시 맥다니,낸시,2000-04-13,2016-11-09,Double Kick,South Korea,USA,162.0,45.0,Daegu,,,F,23,6
+Solar,MAMAMOO,solarkeem,3295954,Girl,Kim Yongsun,김용선,솔라,1991-02-21,2014-06-18,RBW,South Korea,,163.0,43.0,Seoul,,,F,32,9
+Victoria,F(X),victoria02_02,3242461,Girl,Song Qian,송치엔,빅토리아,1987-02-02,2009-09-05,SM,China,,168.0,45.0,Qingdao,,,F,36,13
+Eunji,APINK,artist_eunji,2597797,Girl,Jung Eunji,정은지,은지,1993-08-18,2011-04-19,Plan A,South Korea,,163.0,,Busan,,,F,29,12
+Wheein,MAMAMOO,whee_inthemood,2538329,Girl,Jung Wheein,정휘인,휘인,1995-04-17,2014-06-18,RBW,South Korea,,162.0,43.0,Jeonju,,,F,28,9
+Chaeyeon,IZ*ONE,chaestival_,2213645,Girl,Lee Chaeyeon,이채연,채연,2000-01-11,2018-10-29,Off The Record,South Korea,,,,Yongin,,,F,23,4
+Yena,IZ*ONE,yena.jigumina,2213433,Girl,Choi Yena,최예나,예나,1999-09-29,2018-10-29,Off The Record,South Korea,,,,Seoul,,,F,23,4
+Hyewon,IZ*ONE,hyemhyemu,2108261,Girl,Kang Hyewon,강혜원,혜원,1999-07-05,2018-10-29,Off The Record,South Korea,,,,Yangsan,,,F,24,4
+Eunbi,IZ*ONE,silver_rain.__,2055521,Girl,Kwon Eunbi,권은비,은비,1995-09-27,2018-10-29,Off The Record,South Korea,,,,Seoul,,,F,27,4
+Bona,WJSN,bn_95819,1984459,Girl,Kim Jiyeon,김지연,보나,1995-08-19,2016-02-25,Starship,South Korea,,163.0,,Daegu,WJSN The Black,,F,27,7
+Arin,OH MY GIRL,ye._.vely618,1857972,Girl,Choi Yewon,최예원,아린,1999-06-18,2015-04-21,WM,South Korea,,163.0,47.0,Busan,,,F,24,8
+Eunha,VIVIZ,rlo.ldl,1855917,Girl,Jung Eunbi,정은비,은하,1997-05-30,2022-02-09,Big Planet Made,South Korea,,163.0,,Seoul,,Gfriend,F,26,1
+Yura,GIRL'S DAY,yura_936,1850297,Girl,Kim Ahyoung,김아영,유라,1992-11-06,2010-07-09,DreamT,South Korea,,168.0,49.0,Ulsan,,,F,30,13
+Umji,VIVIZ,ummmmm_j.i,1632732,Girl,Kim Yewon,김예원,엄지,1998-08-19,2022-02-09,Big Planet Made,South Korea,,163.0,,Incheon,,Gfriend,F,24,1
+Sorn,CLC,sssorn_chonnasorn,1590111,Girl,Chonnasorn Sajakul,촌나손 사짜꾼,손,1996-11-18,2015-03-19,Cube,Thailand,,164.0,,Bangkok,,,F,26,8
+Nako,IZ*ONE,75_yabuki,1585101,Girl,Yabuki Nako,야부키 나코,나코,2001-06-18,2018-10-29,Off The Record,Japan,,,,Tokyo,,,F,22,4
+SinB,VIVIZ,bscenez,1564528,Girl,Hwang Eunbi,황은비 ,신비,1998-06-03,2022-02-09,Big Planet Made,South Korea,,165.0,,Cheongju,,Gfriend,F,25,1
+Hitomi,IZ*ONE,10_hitomi_06,1525912,Girl,Honda Hitomi,혼다 히토미,히토미,2001-10-06,2018-10-29,Off The Record,Japan,,,,Toghichi,,,F,21,4
+Luna,F(X),hermosavidaluna,1516689,Girl,Park Sunyoung,박선영,루나,1993-08-12,2009-09-05,SM,South Korea,,162.0,,Seoul,,,F,29,13
+Minah,GIRL'S DAY,bbang_93,1503250,Girl,Bang Minah,방민아,민아,1993-05-13,2010-07-09,DreamT,South Korea,,165.0,47.0,Incheon,,,F,30,13
+Yuri,IZ*ONE,zo__glasss,1502071,Girl,Jo Yuri,조유리,유리,2001-10-22,2018-10-29,Off The Record,South Korea,,,,Busan,,,F,21,4
+Nara,HELLO VENUS,hv_nara,1495340,Girl,Kwon Nara,권나라,나라,1991-03-13,2012-05-09,Fantagio,South Korea,,172.0,52.0,Seongnam,,,F,32,11
+Yerin,GFRIEND,every__nn,1486458,Girl,Jung Yerin,정예린,예린,1996-08-19,2015-01-15,Source,South Korea,,167.0,,Incheon,,,F,26,8
+Doyeon,WEKI MEKI,lafilledhiver_,1420030,Girl,Kim Doyeon,김도연,도연,1999-12-04,2017-08-08,Fantagio,South Korea,,,,Incheon,I.O.I| WJMK,,F,23,5
+Yuju,GFRIEND,yuuzth,1367944,Girl,Choi Yuna,최유나,유주,1997-10-04,2015-01-15,Source,South Korea,,169.0,,Goyang,,,F,25,8
+Sowon,GFRIEND,onedayxne,1340087,Girl,Kim Sojung,김소정,소원,1995-12-07,2015-01-15,Source,South Korea,,172.0,,Seoul,,,F,27,8
+Mina,GUGUDAN,_happiness_o,1241751,Girl,Kang Mina,강미나,미나,1999-12-04,2016-06-28,Jellyfish,South Korea,,162.0,48.0,Icheon,Gugudan Oguogu,I.O.I,F,23,7
+Junghwa,EXID,jeonghwa_0508,1166912,Girl,Park Junghwa,박정화,정화,1995-05-08,2012-02-16,Yedang,South Korea,,169.0,,Anyang,,EXID,F,28,11
+Solji,EXID,soul.g_heo,1064462,Girl,Heo Solji,허솔지,솔지,1989-01-10,2012-02-16,Yedang,South Korea,,170.0,,Seongnam,,,F,34,11
+Chorong,APINK,mulgokizary,1008659,Girl,Park Chorong,박초롱,초롱,1991-03-03,2011-04-19,Plan A,South Korea,,165.0,,Chungwongoon,Chobom,,F,32,12
+Hayoung,APINK,_ohhayoung_,1006934,Girl,Oh Hayoung,오하영,하영,1996-07-19,2011-04-19,Plan A,South Korea,,167.0,,Seoul,,,F,27,12
+Hyerin,EXID,hyeliniseo,991944,Girl,Seo Hyerin,서혜린,혜린,1993-08-23,2012-02-16,Yedang,South Korea,,165.0,,Gwangju,,,F,29,11
+Bomi,APINK,__yoonbomi__,932196,Girl,Yoon Bomi,윤보미,보미,1993-08-13,2011-04-19,Plan A,South Korea,,163.0,,Suwon,Chobom,,F,29,12
+Yoojung,WEKI MEKI,dbeoddl__,921525,Girl,Choi Yoojung,최유정,유정,1999-11-12,2017-08-08,Fantagio,South Korea,,,,Guri,I.O.I| WJMK,,F,23,5
+Eunjung,T-ARA,eunjung.hahm,913663,Girl,Ham Eunjung,함은정,은정,1988-12-12,2009-07-29,MBK,South Korea,,167.0,47.0,Seoul,,,F,34,13
+Eunbin,CLC,superb_ean,888517,Girl,Kwon Eunbin,권은빈,은빈,2000-01-06,2015-03-19,Cube,South Korea,,167.0,48.0,Seoul,,,F,23,8
+Sojin,GIRL'S DAY,ssozi_sojin,829165,Girl,Park Sojin,박소진,소진,1986-05-21,2010-07-09,DreamT,South Korea,,167.0,47.0,Daegu,,,F,37,13
+Namjoo,APINK,sarangdungy,826278,Girl,Kim Namjoo,김남주,남주,1995-04-15,2011-04-19,Plan A,South Korea,,165.0,,Seoul,,,F,28,12
+Seola,WJSN,seola_s,761738,Girl,Kim Hyunjung,김현정,설아,1994-12-24,2016-02-25,Starship,South Korea,,165.0,,Seoul,WJMK| WJSN The Black,,F,28,7
+Eunseo,WJSN,_eunseo_v,745723,Girl,Son Juyeon,손주연,은서,1998-05-27,2016-02-25,Starship,South Korea,,167.0,,Incheon,WJSN The Black,,F,25,7
+Exy,WJSN,exy_s2,726651,Girl,Chu Sojung,추소정,엑시,1995-11-06,2016-02-25,Starship,South Korea,,166.0,,Busan,WJSN The Black,,F,27,7
+Jiheon,FROMIS_9,jihoney_bb,697177,Girl,Baek Jiheon,백지헌,지헌,2003-04-17,2018-01-24,Off The Record,South Korea,,,,Jeolla,,,F,20,5
+Mimi,OH MY GIRL,mimmiiiya,684661,Girl,Kim Mihyun,김미현,미미,1995-05-01,2015-04-21,WM,South Korea,,163.0,50.0,Jeju,,,F,28,8
+Johyun,BERRY GOOD,____jjjjohyuns,676415,Girl,Shin Jiwon,신지원,조현,1996-04-14,2014-05-21,Asia Bridge,South Korea,,,,,,,F,27,9
+Minyoung,BRAVE GIRLS,nyong2ya,664093,Girl,Kim Minyeong,김민영,민영,1990-09-12,2011-04-08,Brave,South Korea,,,,Seongnam,,,F,32,12
+Hayoung,FROMIS_9,shy9_29,653437,Girl,Song Hayoung,송하영,하영,1997-09-29,2018-01-24,Off The Record,South Korea,,,,Gwangju,,,F,25,5
+Hyojung,OH MY GIRL,candyz_hyojung,645628,Girl,Choi Hyojung,최효정,효정,1994-07-28,2015-04-21,WM,South Korea,,160.0,46.0,Yangyang,,,F,28,8
+Qri,T-ARA,qtfreet,639657,Girl,Lee Jihyun,이지현,큐리,1986-12-12,2009-07-29,MBK,South Korea,,162.0,44.0,Goyang,,,F,36,13
+Kyungri,9MUSES,gyeongree,636777,Girl,Park Kyungri,박경리,경리,1990-07-05,2010-08-12,Star Empire,South Korea,,170.0,50.0,Busan,9MUSES A,,F,33,12
+Yeonjung,WJSN,uyj_s,614951,Girl,Yu Yeonjung,유연정,연정,1999-08-03,2016-02-25,Starship,South Korea,,167.0,52.0,Gwangmyeong,,I.O.I,F,23,7
+Yujeong,BRAVE GIRLS,braveg_yj,612734,Girl,Nam Yujeong,남유정,유정,1991-05-02,2011-04-08,Brave,South Korea,,,,Seoul,,,F,32,12
+Hyejeong,AOA,dongdong810,562376,Girl,Shin Hyejeong,신혜정,혜정,1993-08-10,2012-07-30,FNC,South Korea,,170.0,48.0,Seoul,,,F,29,10
+Luda,WJSN,e_lludda,554997,Girl,Lee Luda,이루다,루다,1997-03-06,2016-02-25,Starship,South Korea,,157.0,,Seoul,WJSN Chocome| WJMK,,F,26,7
+Ashley,LADIES' CODE,ashleybchoi,541344,Girl,Ashley Choi,애슐리 최,애슐리,1991-11-09,2013-03-07,Polaris,South Korea,USA,,,Incheon,,,F,31,10
+Mijoo,LOVELYZ,queen.chu_s,536028,Girl,Lee Mijoo,이미주,미주,1994-09-23,2014-11-17,Woollim,South Korea,,167.0,47.0,Okcheon,,,F,28,8
+Chaeyoung,FROMIS_9,c.young__0514,522877,Girl,Lee Chaeyoung,이채영,채영,2000-05-14,2018-01-24,Off The Record,South Korea,,,,Pohang,,,F,23,5
+Eunji,BRAVE GIRLS,bg_eunji92,517344,Girl,Hong Eunji,홍은지,은지,1992-07-19,2011-04-08,Brave,South Korea,,,,Seoul,,,F,31,12
+Saerom,FROMIS_9,lsroom__,499444,Girl,Lee Saerom,이새롬,새롬,1997-01-07,2018-01-24,Off The Record,South Korea,,,,Gangwon,,,F,26,5
+Chanmi,AOA,chanmi_96a,498678,Girl,Kim Chanmi,김찬미,찬미,1996-06-19,2012-07-30,FNC,South Korea,,166.0,47.0,Gumi,,,F,27,10
